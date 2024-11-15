@@ -1,0 +1,22 @@
+.oddp {
+    background-color: rgb(255 132 158);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+
+}
+
+#evendiv {
+    color: rgb(0, 58, 247);
+    font-size: 36px;
+
+}
+
+.oddp .sec {
+    font-size: 24px;
+
+}
+
+#evendiv2 {
+    background-color: rgb(115, 255, 87);
+    font-size: 24px;
+    font-weight: bold;
+}
